@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on localhost</title>
+    <link>http://localhost.srv.br/post/</link>
+    <description>Recent content in Posts on localhost</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost.srv.br/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost.srv.br/post/hello-world/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost.srv.br/post/hello-world/</guid>
+      <description>Hello 127.0.0.1  Hello there!
+Welcome.
+Microsoft MS DOS C:\&amp;gt;ping 127.0.0.1Pinging 127.0.0.1 with 32 bytes of data:Reply from 127.0.0.1: bytes=32 time&amp;lt;1ms TTL=128Reply from 127.0.0.1: bytes=32 time=1ms TTL=128Reply from 127.0.0.1: bytes=32 time&amp;lt;1ms TTL=128Reply from 127.0.0.1: bytes=32 time&amp;lt;1ms TTL=128Ping statistics for 127.0.0.1:Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),Approximate round trip times in milli-seconds:Minimum = 0ms, Maximum = 1ms, Average = 0msc:\&amp;gt; </description>
+    </item>
+    
+  </channel>
+</rss>
